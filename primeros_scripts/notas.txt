@@ -1,0 +1,4 @@
+hola mundo
+Linux
+Usando Bash
+Adios
